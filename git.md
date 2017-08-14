@@ -11,3 +11,9 @@ add, commit, branch, checkout -b branchName
 Concepts:
 * branch
 
+--- PART 2 ---
+
+remote add
+fetch x
+rebase (examples)
+
